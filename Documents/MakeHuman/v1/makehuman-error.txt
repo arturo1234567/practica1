@@ -1,0 +1,330 @@
+data/VERSION file detected using value from version file: 2128:2d119491670c
+Initialized logging
+VERSION: 1.1.1
+HG REVISION: r2128 (2d119491670c) [data/VERSION static revision data]
+SHORT VERSION: v1.1.1
+BASEMESH VERSION: hm08
+IS BUILT (FROZEN): Yes
+IS RELEASE VERSION: Yes
+DEFAULT ENCODING: utf-8
+FILESYSTEM ENCODING: utf-8
+STDOUT ENCODING: US-ASCII
+WORKING DIRECTORY: /Applications/MakeHuman.app/Contents/Resources
+HOME LOCATION: /Users/tesoem
+PYTHON PATH: ./:./lib:./apps:./shared:./apps/gui:./core:/Applications/MakeHuman.app/Contents/Resources/lib/python27.zip:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/plat-darwin:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/plat-mac:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/plat-mac/lib-scriptpackages:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/lib-tk:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/lib-old:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/lib-dynload:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/site-packages.zip:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/site-packages
+DLL PATH: .:/Applications/MakeHuman.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin
+SYS.VERSION: 2.7.9 (v2.7.9:648dcafa7e5f, Dec 10 2014, 10:10:46)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+SYS.PLATFORM: darwin
+SYS.EXECUTABLE: /Applications/MakeHuman.app/Contents/MacOS/python
+PLATFORM.MACHINE: x86_64
+PLATFORM.PROCESSOR: i386
+PLATFORM.UNAME.RELEASE: 16.7.0
+PLATFORM.MAC_VER: 10.12.6
+NUMPY.VERSION: 1.6.2
+No OpenGL_accelerate module loaded: No module named OpenGL_accelerate
+Unable to load registered array format handler numeric
+Unable to load registered array format handler vbo
+Unable to load registered array format handler vbooffset
+PYQT.VERSION: 4.8.7
+PYQT.JPG_SUPPORT: supported
+PYQT.SVG_SUPPORT: supported
+QT.PLUGIN_PATH: /Applications/MakeHuman.app/Contents/PlugIns:/Applications/MakeHuman.app/Contents/MacOS
+QT.PLUGIN_PATH_ENV: 
+QT.CONF: [Paths]
+         Plugins = PlugIns
+PYOPENGL.VERSION: 3.0.2
+GL.VENDOR: NVIDIA Corporation
+GL.RENDERER: NVIDIA GeForce GT 750M OpenGL Engine
+GL.VERSION: 2.1 NVIDIA-10.17.5 355.10.05.45f01
+OpenGL Version: 2.1 NVIDIA-10.17.5 355.10.05.45f01
+GLSL.VERSION: 1.20
+GL Extension GL_ARB_multisample available
+GL.EXTENSION: GL_ARB_multisample enabled (4x samples)
+Creating new texture for image data/textures/texture_notfound.png.
+GL Extension GL_ARB_texture_non_power_of_two available
+GL.EXTENSION: GL_ARB_texture_non_power_of_two enabled
+initTexture: 256, 256, False
+Setting language to english
+Setting language to english
+Initializing default theme first.
+Theme default version 1.1.0
+Loaded theme data/themes/default.mht
+Using Qt system style macintosh (aqua)
+Loading human
+Loading binary mesh data/3dobjs/base.npz.
+Loading material from file data/skins/default.mhmat
+VectorUniform(AdditiveShading) = [ 0.]
+Shader: adding built-in uniform gl_NormalMatrix
+Shader: adding built-in uniform gl_ModelViewProjectionMatrix
+VectorUniform(AdditiveShading) = [ 0.]
+Loaded vertex weights MakeHuman weights from file /Applications/MakeHuman.app/Contents/Resources/data/rigs/default_weights.mhw
+Loading scene
+Loading scene file: data/scenes/default.mhscene
+Loading main GUI
+Assigning setting loaddir value /Users/tesoem/Documents/MakeHuman/v1/models that was loaded before the setting was declared.
+Assigning setting savedir value /Users/tesoem/Documents/MakeHuman/v1/models that was loaded before the setting was declared.
+Assigning setting exportdir value /Users/tesoem/Documents/MakeHuman/v1/exports that was loaded before the setting was declared.
+Loading plugins
+Importing plugin 0_modeling_0_modifiers
+Imported plugin 0_modeling_0_modifiers
+Loading plugin 0_modeling_0_modifiers
+Loading modifiers from data/modifiers/modeling_modifiers.json
+Attempting to load targets from NPZ file.
+1258 targets loaded from NPZ file succesfully.
+Loaded 249 modifiers from file data/modifiers/modeling_modifiers.json
+Loaded 249 modifier descriptions from file data/modifiers/modeling_modifiers_desc.json
+Loaded plugin 0_modeling_0_modifiers
+Creating new texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+initTexture: 256, 256, False
+Importing plugin 0_modeling_8_random
+Imported plugin 0_modeling_8_random
+Loading plugin 0_modeling_8_random
+Loaded plugin 0_modeling_8_random
+Importing plugin 0_modeling_9_custom_targets
+Imported plugin 0_modeling_9_custom_targets
+Loading plugin 0_modeling_9_custom_targets
+Loaded plugin 0_modeling_9_custom_targets
+Importing plugin 0_modeling_a_measurement
+Imported plugin 0_modeling_a_measurement
+Loading plugin 0_modeling_a_measurement
+Loading modifiers from data/modifiers/measurement_modifiers.json
+Loaded 20 modifiers from file data/modifiers/measurement_modifiers.json
+Loaded 20 modifier descriptions from file data/modifiers/measurement_modifiers_desc.json
+Loaded plugin 0_modeling_a_measurement
+Importing plugin 0_modeling_background
+Imported plugin 0_modeling_background
+Loading plugin 0_modeling_background
+Loaded plugin 0_modeling_background
+Importing plugin 2_foot_posing
+Imported plugin 2_foot_posing
+Loading plugin 2_foot_posing
+Loaded plugin 2_foot_posing
+Importing plugin 2_posing_expression
+Imported plugin 2_posing_expression
+Loading plugin 2_posing_expression
+Loaded plugin 2_posing_expression
+Importing plugin 3_libraries_clothes_chooser
+Imported plugin 3_libraries_clothes_chooser
+Loading plugin 3_libraries_clothes_chooser
+Loaded plugin 3_libraries_clothes_chooser
+Importing plugin 3_libraries_eye_chooser
+Imported plugin 3_libraries_eye_chooser
+Loading plugin 3_libraries_eye_chooser
+Selecting proxy file "data/eyes/high-poly/high-poly.mhclo" from eyes library.
+Loading binary proxy data/eyes/high-poly/high-poly.mhpxy.
+Loading proxy file: data/eyes/high-poly/high-poly.mhpxy.
+Loading material from file /Applications/MakeHuman.app/Contents/Resources/data/eyes/materials/brown.mhmat
+VectorUniform(AdditiveShading) = [ 0.]
+Shader: adding built-in uniform gl_NormalMatrix
+Shader: adding built-in uniform gl_ModelViewProjectionMatrix
+VectorUniform(AdditiveShading) = [ 0.]
+Loading binary mesh /Applications/MakeHuman.app/Contents/Resources/data/eyes/high-poly/high-poly.npz.
+Loaded plugin 3_libraries_eye_chooser
+Importing plugin 3_libraries_eyebrows
+Imported plugin 3_libraries_eyebrows
+Loading plugin 3_libraries_eyebrows
+Loaded plugin 3_libraries_eyebrows
+Importing plugin 3_libraries_eyelashes
+Imported plugin 3_libraries_eyelashes
+Loading plugin 3_libraries_eyelashes
+Loaded plugin 3_libraries_eyelashes
+Importing plugin 3_libraries_material_chooser
+Imported plugin 3_libraries_material_chooser
+Loading plugin 3_libraries_material_chooser
+Loaded plugin 3_libraries_material_chooser
+Importing plugin 3_libraries_polygon_hair_chooser
+Imported plugin 3_libraries_polygon_hair_chooser
+Loading plugin 3_libraries_polygon_hair_chooser
+Loaded plugin 3_libraries_polygon_hair_chooser
+Importing plugin 3_libraries_pose
+Imported plugin 3_libraries_pose
+Loading plugin 3_libraries_pose
+Loaded plugin 3_libraries_pose
+Importing plugin 3_libraries_proxy_chooser
+Imported plugin 3_libraries_proxy_chooser
+Loading plugin 3_libraries_proxy_chooser
+Loaded plugin 3_libraries_proxy_chooser
+Importing plugin 3_libraries_skeleton
+Imported plugin 3_libraries_skeleton
+Loading plugin 3_libraries_skeleton
+Loaded plugin 3_libraries_skeleton
+Importing plugin 3_libraries_teeth
+Imported plugin 3_libraries_teeth
+Loading plugin 3_libraries_teeth
+Loaded plugin 3_libraries_teeth
+Importing plugin 3_libraries_tongue
+Imported plugin 3_libraries_tongue
+Loading plugin 3_libraries_tongue
+Loaded plugin 3_libraries_tongue
+Importing plugin 4_rendering_9_viewer
+Imported plugin 4_rendering_9_viewer
+Loading plugin 4_rendering_9_viewer
+Loaded plugin 4_rendering_9_viewer
+Importing plugin 4_rendering_opengl
+Imported plugin 4_rendering_opengl
+Loading plugin 4_rendering_opengl
+Assigning setting rendering_width value 800 that was loaded before the setting was declared.
+Assigning setting rendering_height value 600 that was loaded before the setting was declared.
+Assigning setting GL_RENDERER_SSS value False that was loaded before the setting was declared.
+Assigning setting GL_RENDERER_AA value True that was loaded before the setting was declared.
+GL Extension GL_ARB_framebuffer_object available
+Chose alternate: glGenRenderbuffers from glGenRenderbuffers, glGenRenderbuffersEXT
+Chose alternate: glBindRenderbuffer from glBindRenderbuffer, glBindRenderbufferEXT
+Chose alternate: glRenderbufferStorage from glRenderbufferStorage, glRenderbufferStorageEXT
+Chose alternate: glGenFramebuffers from glGenFramebuffers, glGenFramebuffersEXT
+Chose alternate: glBindFramebuffer from glBindFramebuffer, glBindFramebufferEXT
+Chose alternate: glFramebufferRenderbuffer from glFramebufferRenderbuffer, glFramebufferRenderbufferEXT
+Loaded plugin 4_rendering_opengl
+Importing plugin 4_rendering_scene
+Imported plugin 4_rendering_scene
+Loading plugin 4_rendering_scene
+Setting rendering_width is already declared. Adding it again has no effect.
+Setting rendering_height is already declared. Adding it again has no effect.
+Loaded plugin 4_rendering_scene
+Importing plugin 5_settings_0_settings
+Imported plugin 5_settings_0_settings
+Loading plugin 5_settings_0_settings
+Setting language to english
+Theme makehuman version 1.1.0
+Loaded theme data/themes/makehuman.mht
+Loaded Qt style data/themes/makehuman.qss
+Loaded plugin 5_settings_0_settings
+Creating new texture for image /Applications/MakeHuman.app/Contents/Resources/data/eyes/materials/brown_eye.png.
+initTexture: 1024, 1024, False
+Creating new texture for image /Applications/MakeHuman.app/Contents/Resources/data/litspheres/skinmat_eye.png.
+initTexture: 256, 256, False
+Importing plugin 5_settings_mouse
+Imported plugin 5_settings_mouse
+Loading plugin 5_settings_mouse
+Loaded plugin 5_settings_mouse
+Importing plugin 5_settings_shortcuts
+Imported plugin 5_settings_shortcuts
+Loading plugin 5_settings_shortcuts
+Loaded plugin 5_settings_shortcuts
+Importing plugin 6_help
+Imported plugin 6_help
+Loading plugin 6_help
+Loaded plugin 6_help
+Importing plugin 7_expression_mixer
+Imported plugin 7_expression_mixer
+Loading plugin 7_expression_mixer
+Loaded plugin 7_expression_mixer
+Importing plugin 7_logging
+Imported plugin 7_logging
+Loading plugin 7_logging
+Loaded plugin 7_logging
+Importing plugin 9_export_bvh
+Imported plugin 9_export_bvh
+Loading plugin 9_export_bvh
+Loaded plugin 9_export_bvh
+Importing plugin 9_export_collada
+Imported plugin 9_export_collada
+Loading plugin 9_export_collada
+Loaded plugin 9_export_collada
+Importing plugin 9_export_fbx
+Imported plugin 9_export_fbx
+Loading plugin 9_export_fbx
+Loaded plugin 9_export_fbx
+Importing plugin 9_export_light
+Imported plugin 9_export_light
+Loading plugin 9_export_light
+Loaded plugin 9_export_light
+Importing plugin 9_export_obj
+Imported plugin 9_export_obj
+Loading plugin 9_export_obj
+Loaded plugin 9_export_obj
+Importing plugin 9_export_ogre
+Imported plugin 9_export_ogre
+Loading plugin 9_export_ogre
+Loaded plugin 9_export_ogre
+Importing plugin 9_export_stl
+Imported plugin 9_export_stl
+Loading plugin 9_export_stl
+Loaded plugin 9_export_stl
+Importing plugin 9_export_uvmap
+Imported plugin 9_export_uvmap
+Loading plugin 9_export_uvmap
+Loaded plugin 9_export_uvmap
+Loading GUI
+showing category Modelling
+showing task Macro modelling
+Loading theme
+Theme makehuman version 1.1.0
+Loaded theme data/themes/makehuman.mht
+Loaded Qt style data/themes/makehuman.qss
+Applying targets
+Updating skeleton joint positions
+Done baking animations
+Loading macro targets
+Loading done
+
+Unloading plugin 9_export_obj
+Unloaded plugin 9_export_obj
+Unloading plugin 5_settings_shortcuts
+Unloaded plugin 5_settings_shortcuts
+Unloading plugin 4_rendering_scene
+Unloaded plugin 4_rendering_scene
+Unloading plugin 9_export_collada
+Unloaded plugin 9_export_collada
+Unloading plugin 5_settings_0_settings
+Unloaded plugin 5_settings_0_settings
+Unloading plugin 3_libraries_clothes_chooser
+Unloaded plugin 3_libraries_clothes_chooser
+Unloading plugin 5_settings_mouse
+Unloaded plugin 5_settings_mouse
+Unloading plugin 3_libraries_proxy_chooser
+Unloaded plugin 3_libraries_proxy_chooser
+Unloading plugin 2_posing_expression
+Unloaded plugin 2_posing_expression
+Unloading plugin 0_modeling_8_random
+Unloaded plugin 0_modeling_8_random
+Unloading plugin 3_libraries_material_chooser
+Unloaded plugin 3_libraries_material_chooser
+Unloading plugin 0_modeling_0_modifiers
+Unloaded plugin 0_modeling_0_modifiers
+Unloading plugin 9_export_fbx
+Unloaded plugin 9_export_fbx
+Unloading plugin 9_export_stl
+Unloaded plugin 9_export_stl
+Unloading plugin 4_rendering_opengl
+Unloaded plugin 4_rendering_opengl
+Unloading plugin 3_libraries_polygon_hair_chooser
+Unloaded plugin 3_libraries_polygon_hair_chooser
+Unloading plugin 0_modeling_9_custom_targets
+Unloaded plugin 0_modeling_9_custom_targets
+Unloading plugin 9_export_light
+Unloaded plugin 9_export_light
+Unloading plugin 3_libraries_eyelashes
+Unloaded plugin 3_libraries_eyelashes
+Unloading plugin 7_logging
+Unloaded plugin 7_logging
+Unloading plugin 4_rendering_9_viewer
+Unloaded plugin 4_rendering_9_viewer
+Unloading plugin 9_export_bvh
+Unloaded plugin 9_export_bvh
+Unloading plugin 2_foot_posing
+Unloaded plugin 2_foot_posing
+Unloading plugin 6_help
+Unloaded plugin 6_help
+Unloading plugin 3_libraries_skeleton
+Unloaded plugin 3_libraries_skeleton
+Unloading plugin 3_libraries_eye_chooser
+Unloaded plugin 3_libraries_eye_chooser
+Unloading plugin 7_expression_mixer
+Unloaded plugin 7_expression_mixer
+Unloading plugin 3_libraries_tongue
+Unloaded plugin 3_libraries_tongue
+Unloading plugin 3_libraries_teeth
+Unloaded plugin 3_libraries_teeth
+Unloading plugin 3_libraries_pose
+Unloaded plugin 3_libraries_pose
+Unloading plugin 0_modeling_background
+Unloaded plugin 0_modeling_background
+Unloading plugin 9_export_uvmap
+Unloaded plugin 9_export_uvmap
+Unloading plugin 0_modeling_a_measurement
+Unloaded plugin 0_modeling_a_measurement
+Unloading plugin 9_export_ogre
+Unloaded plugin 9_export_ogre
+Unloading plugin 3_libraries_eyebrows
+Unloaded plugin 3_libraries_eyebrows

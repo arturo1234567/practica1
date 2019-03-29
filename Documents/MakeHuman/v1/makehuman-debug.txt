@@ -1,0 +1,35 @@
+VERSION: 1.1.1
+HG REVISION: r2128 (2d119491670c) [data/VERSION static revision data]
+SHORT VERSION: v1.1.1
+BASEMESH VERSION: hm08
+IS BUILT (FROZEN): Yes
+IS RELEASE VERSION: Yes
+DEFAULT ENCODING: utf-8
+FILESYSTEM ENCODING: utf-8
+STDOUT ENCODING: US-ASCII
+WORKING DIRECTORY: /Applications/MakeHuman.app/Contents/Resources
+HOME LOCATION: /Users/tesoem
+PYTHON PATH: ./:./lib:./apps:./shared:./apps/gui:./core:/Applications/MakeHuman.app/Contents/Resources/lib/python27.zip:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/plat-darwin:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/plat-mac:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/plat-mac/lib-scriptpackages:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/lib-tk:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/lib-old:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/lib-dynload:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/site-packages.zip:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/site-packages
+DLL PATH: .:/Applications/MakeHuman.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin
+SYS.VERSION: 2.7.9 (v2.7.9:648dcafa7e5f, Dec 10 2014, 10:10:46)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+SYS.PLATFORM: darwin
+SYS.EXECUTABLE: /Applications/MakeHuman.app/Contents/MacOS/python
+PLATFORM.MACHINE: x86_64
+PLATFORM.PROCESSOR: i386
+PLATFORM.UNAME.RELEASE: 16.7.0
+PLATFORM.MAC_VER: 10.12.6
+NUMPY.VERSION: 1.6.2
+PYQT.VERSION: 4.8.7
+PYQT.JPG_SUPPORT: supported
+PYQT.SVG_SUPPORT: supported
+QT.PLUGIN_PATH: /Applications/MakeHuman.app/Contents/PlugIns:/Applications/MakeHuman.app/Contents/MacOS
+QT.PLUGIN_PATH_ENV: 
+QT.CONF: [Paths]
+         Plugins = PlugIns
+PYOPENGL.VERSION: 3.0.2
+GL.VENDOR: NVIDIA Corporation
+GL.RENDERER: NVIDIA GeForce GT 750M OpenGL Engine
+GL.VERSION: 2.1 NVIDIA-10.17.5 355.10.05.45f01
+GLSL.VERSION: 1.20
+GL.EXTENSION: GL_ARB_multisample enabled (4x samples)
+GL.EXTENSION: GL_ARB_texture_non_power_of_two enabled

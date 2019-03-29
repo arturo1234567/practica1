@@ -1,0 +1,87 @@
+-------- Plugin Loading Log ------------
+
+Loading from root path: /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/en_US/
+Scanning for the following file types: *.bundle, *.plugin, *.prmp, *.vst
+
+Scanning /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/en_US/ and sub-directories
+
+Loading from root path: /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/
+Scanning for the following file types: *.bundle, *.plugin, *.prmp, *.vst
+
+Scanning /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ and sub-directories
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/AEFilterCrop.bundle
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/AEFilterGaussianBlur.bundle
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterAiff.bundle
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterASND.bundle
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterBarsAndTone.bundle
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterDPX.bundle
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterFLV.bundle
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterJPEG.bundle
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterMp3.bundle
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterMPEG.bundle
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterP2.bundle
+The plugin is marked as Ignore, so it will not be loaded.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterPhotoshopProxy.bundle
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterPNG.bundle
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterTarga.bundle
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterTiff.bundle
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterWave.bundle
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/Motion.bundle
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS5/Adobe Media Encoder CS5.app/Contents/Plug-ins/Common/ImporterQuickTime.bundle
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+

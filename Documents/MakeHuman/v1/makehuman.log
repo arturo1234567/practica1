@@ -1,0 +1,329 @@
+[2019-01-09 07:56:28,725] __init__.py->info():1622 -- MESSAGE -- Initialized logging
+[2019-01-09 07:56:28,730] __init__.py->debug():1630 -- DEBUG -- VERSION: 1.1.1
+[2019-01-09 07:56:28,730] __init__.py->debug():1630 -- DEBUG -- HG REVISION: r2128 (2d119491670c) [data/VERSION static revision data]
+[2019-01-09 07:56:28,730] __init__.py->debug():1630 -- DEBUG -- SHORT VERSION: v1.1.1
+[2019-01-09 07:56:28,730] __init__.py->debug():1630 -- DEBUG -- BASEMESH VERSION: hm08
+[2019-01-09 07:56:28,730] __init__.py->debug():1630 -- DEBUG -- IS BUILT (FROZEN): Yes
+[2019-01-09 07:56:28,730] __init__.py->debug():1630 -- DEBUG -- IS RELEASE VERSION: Yes
+[2019-01-09 07:56:28,730] __init__.py->debug():1630 -- DEBUG -- DEFAULT ENCODING: utf-8
+[2019-01-09 07:56:28,730] __init__.py->debug():1630 -- DEBUG -- FILESYSTEM ENCODING: utf-8
+[2019-01-09 07:56:28,730] __init__.py->debug():1630 -- DEBUG -- STDOUT ENCODING: US-ASCII
+[2019-01-09 07:56:28,731] __init__.py->debug():1630 -- DEBUG -- WORKING DIRECTORY: /Applications/MakeHuman.app/Contents/Resources
+[2019-01-09 07:56:28,731] __init__.py->debug():1630 -- DEBUG -- HOME LOCATION: /Users/tesoem
+[2019-01-09 07:56:28,731] __init__.py->debug():1630 -- DEBUG -- PYTHON PATH: ./:./lib:./apps:./shared:./apps/gui:./core:/Applications/MakeHuman.app/Contents/Resources/lib/python27.zip:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/plat-darwin:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/plat-mac:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/plat-mac/lib-scriptpackages:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/lib-tk:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/lib-old:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/lib-dynload:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/site-packages.zip:/Applications/MakeHuman.app/Contents/Resources/lib/python2.7/site-packages
+[2019-01-09 07:56:28,731] __init__.py->debug():1630 -- DEBUG -- DLL PATH: .:/Applications/MakeHuman.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin
+[2019-01-09 07:56:28,731] __init__.py->debug():1630 -- DEBUG -- SYS.VERSION: 2.7.9 (v2.7.9:648dcafa7e5f, Dec 10 2014, 10:10:46)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+[2019-01-09 07:56:28,731] __init__.py->debug():1630 -- DEBUG -- SYS.PLATFORM: darwin
+[2019-01-09 07:56:28,731] __init__.py->debug():1630 -- DEBUG -- SYS.EXECUTABLE: /Applications/MakeHuman.app/Contents/MacOS/python
+[2019-01-09 07:56:28,735] __init__.py->debug():1630 -- DEBUG -- PLATFORM.MACHINE: x86_64
+[2019-01-09 07:56:28,735] __init__.py->debug():1630 -- DEBUG -- PLATFORM.PROCESSOR: i386
+[2019-01-09 07:56:28,735] __init__.py->debug():1630 -- DEBUG -- PLATFORM.UNAME.RELEASE: 16.7.0
+[2019-01-09 07:56:28,740] __init__.py->debug():1630 -- DEBUG -- PLATFORM.MAC_VER: 10.12.6
+[2019-01-09 07:56:28,803] __init__.py->debug():1630 -- DEBUG -- NUMPY.VERSION: 1.6.2
+[2019-01-09 07:56:28,830] acceleratesupport.py-><module>():17 -- MESSAGE -- No OpenGL_accelerate module loaded: No module named OpenGL_accelerate
+[2019-01-09 07:56:28,835] formathandler.py->loadPlugin():46 -- MESSAGE -- Unable to load registered array format handler numeric
+[2019-01-09 07:56:28,836] formathandler.py->loadPlugin():46 -- MESSAGE -- Unable to load registered array format handler vbo
+[2019-01-09 07:56:28,836] formathandler.py->loadPlugin():46 -- MESSAGE -- Unable to load registered array format handler vbooffset
+[2019-01-09 07:56:30,566] __init__.py->debug():1630 -- DEBUG -- PYQT.VERSION: 4.8.7
+[2019-01-09 07:56:30,572] __init__.py->debug():1630 -- DEBUG -- PYQT.JPG_SUPPORT: supported
+[2019-01-09 07:56:30,572] __init__.py->debug():1630 -- DEBUG -- PYQT.SVG_SUPPORT: supported
+[2019-01-09 07:56:30,573] __init__.py->debug():1630 -- DEBUG -- QT.PLUGIN_PATH: /Applications/MakeHuman.app/Contents/PlugIns:/Applications/MakeHuman.app/Contents/MacOS
+[2019-01-09 07:56:30,573] __init__.py->debug():1630 -- DEBUG -- QT.PLUGIN_PATH_ENV: 
+[2019-01-09 07:56:30,573] __init__.py->debug():1630 -- DEBUG -- QT.CONF: [Paths]
+         Plugins = PlugIns
+[2019-01-09 07:56:30,632] __init__.py->debug():1630 -- DEBUG -- PYOPENGL.VERSION: 3.0.2
+[2019-01-09 07:56:30,632] __init__.py->debug():1630 -- DEBUG -- GL.VENDOR: NVIDIA Corporation
+[2019-01-09 07:56:30,633] __init__.py->debug():1630 -- DEBUG -- GL.RENDERER: NVIDIA GeForce GT 750M OpenGL Engine
+[2019-01-09 07:56:30,633] __init__.py->debug():1630 -- DEBUG -- GL.VERSION: 2.1 NVIDIA-10.17.5 355.10.05.45f01
+[2019-01-09 07:56:30,634] extensions.py->getGLVersion():92 -- DEBUG -- OpenGL Version: 2.1 NVIDIA-10.17.5 355.10.05.45f01
+[2019-01-09 07:56:30,634] __init__.py->debug():1630 -- DEBUG -- GLSL.VERSION: 1.20
+[2019-01-09 07:56:30,634] extensions.py->hasGLExtension():148 -- DEBUG -- GL Extension GL_ARB_multisample available
+[2019-01-09 07:56:30,635] __init__.py->debug():1630 -- DEBUG -- GL.EXTENSION: GL_ARB_multisample enabled (4x samples)
+[2019-01-09 07:56:30,635] __init__.py->debug():1630 -- DEBUG -- Creating new texture for image data/textures/texture_notfound.png.
+[2019-01-09 07:56:30,638] extensions.py->hasGLExtension():148 -- DEBUG -- GL Extension GL_ARB_texture_non_power_of_two available
+[2019-01-09 07:56:30,638] __init__.py->debug():1630 -- DEBUG -- GL.EXTENSION: GL_ARB_texture_non_power_of_two enabled
+[2019-01-09 07:56:30,639] __init__.py->debug():1630 -- DEBUG -- initTexture: 256, 256, False
+[2019-01-09 07:56:30,663] __init__.py->debug():1630 -- DEBUG -- Setting language to english
+[2019-01-09 07:56:30,673] __init__.py->debug():1630 -- DEBUG -- Setting language to english
+[2019-01-09 07:56:30,675] __init__.py->info():1622 -- MESSAGE -- Initializing default theme first.
+[2019-01-09 07:56:30,675] __init__.py->info():1622 -- MESSAGE -- Theme default version 1.1.0
+[2019-01-09 07:56:30,675] __init__.py->debug():1630 -- DEBUG -- Loaded theme data/themes/default.mht
+[2019-01-09 07:56:30,676] __init__.py->debug():1630 -- DEBUG -- Using Qt system style macintosh (aqua)
+[2019-01-09 07:56:30,905] __init__.py->info():1622 -- MESSAGE -- Loading human
+[2019-01-09 07:56:30,921] __init__.py->debug():1630 -- DEBUG -- Loading binary mesh data/3dobjs/base.npz.
+[2019-01-09 07:56:31,019] __init__.py->debug():1630 -- DEBUG -- Loading material from file data/skins/default.mhmat
+[2019-01-09 07:56:31,025] __init__.py->debug():1630 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2019-01-09 07:56:31,026] __init__.py->debug():1630 -- DEBUG -- Shader: adding built-in uniform gl_NormalMatrix
+[2019-01-09 07:56:31,026] __init__.py->debug():1630 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewProjectionMatrix
+[2019-01-09 07:56:31,026] __init__.py->debug():1630 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2019-01-09 07:56:31,185] __init__.py->info():1622 -- MESSAGE -- Loaded vertex weights MakeHuman weights from file /Applications/MakeHuman.app/Contents/Resources/data/rigs/default_weights.mhw
+[2019-01-09 07:56:31,579] __init__.py->info():1622 -- MESSAGE -- Loading scene
+[2019-01-09 07:56:31,584] __init__.py->debug():1630 -- DEBUG -- Loading scene file: data/scenes/default.mhscene
+[2019-01-09 07:56:31,585] __init__.py->info():1622 -- MESSAGE -- Loading main GUI
+[2019-01-09 07:56:31,643] __init__.py->debug():1630 -- DEBUG -- Assigning setting loaddir value /Users/tesoem/Documents/MakeHuman/v1/models that was loaded before the setting was declared.
+[2019-01-09 07:56:31,647] __init__.py->debug():1630 -- DEBUG -- Assigning setting savedir value /Users/tesoem/Documents/MakeHuman/v1/models that was loaded before the setting was declared.
+[2019-01-09 07:56:31,649] __init__.py->debug():1630 -- DEBUG -- Assigning setting exportdir value /Users/tesoem/Documents/MakeHuman/v1/exports that was loaded before the setting was declared.
+[2019-01-09 07:56:31,658] __init__.py->info():1622 -- MESSAGE -- Loading plugins
+[2019-01-09 07:56:31,757] __init__.py->info():1622 -- MESSAGE -- Importing plugin 0_modeling_0_modifiers
+[2019-01-09 07:56:31,759] __init__.py->info():1622 -- MESSAGE -- Imported plugin 0_modeling_0_modifiers
+[2019-01-09 07:56:31,759] __init__.py->info():1622 -- MESSAGE -- Loading plugin 0_modeling_0_modifiers
+[2019-01-09 07:56:31,759] __init__.py->debug():1630 -- DEBUG -- Loading modifiers from data/modifiers/modeling_modifiers.json
+[2019-01-09 07:56:31,763] __init__.py->debug():1630 -- DEBUG -- Attempting to load targets from NPZ file.
+[2019-01-09 07:56:32,264] __init__.py->debug():1630 -- DEBUG -- 1258 targets loaded from NPZ file succesfully.
+[2019-01-09 07:56:33,961] __init__.py->info():1622 -- MESSAGE -- Loaded 249 modifiers from file data/modifiers/modeling_modifiers.json
+[2019-01-09 07:56:33,963] __init__.py->info():1622 -- MESSAGE -- Loaded 249 modifier descriptions from file data/modifiers/modeling_modifiers_desc.json
+[2019-01-09 07:56:34,329] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 0_modeling_0_modifiers
+[2019-01-09 07:56:34,349] __init__.py->debug():1630 -- DEBUG -- Creating new texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2019-01-09 07:56:34,350] __init__.py->debug():1630 -- DEBUG -- initTexture: 256, 256, False
+[2019-01-09 07:56:34,397] __init__.py->info():1622 -- MESSAGE -- Importing plugin 0_modeling_8_random
+[2019-01-09 07:56:34,400] __init__.py->info():1622 -- MESSAGE -- Imported plugin 0_modeling_8_random
+[2019-01-09 07:56:34,401] __init__.py->info():1622 -- MESSAGE -- Loading plugin 0_modeling_8_random
+[2019-01-09 07:56:34,404] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 0_modeling_8_random
+[2019-01-09 07:56:34,413] __init__.py->info():1622 -- MESSAGE -- Importing plugin 0_modeling_9_custom_targets
+[2019-01-09 07:56:34,413] __init__.py->info():1622 -- MESSAGE -- Imported plugin 0_modeling_9_custom_targets
+[2019-01-09 07:56:34,414] __init__.py->info():1622 -- MESSAGE -- Loading plugin 0_modeling_9_custom_targets
+[2019-01-09 07:56:34,416] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 0_modeling_9_custom_targets
+[2019-01-09 07:56:34,425] __init__.py->info():1622 -- MESSAGE -- Importing plugin 0_modeling_a_measurement
+[2019-01-09 07:56:34,426] __init__.py->info():1622 -- MESSAGE -- Imported plugin 0_modeling_a_measurement
+[2019-01-09 07:56:34,426] __init__.py->info():1622 -- MESSAGE -- Loading plugin 0_modeling_a_measurement
+[2019-01-09 07:56:34,427] __init__.py->debug():1630 -- DEBUG -- Loading modifiers from data/modifiers/measurement_modifiers.json
+[2019-01-09 07:56:34,428] __init__.py->info():1622 -- MESSAGE -- Loaded 20 modifiers from file data/modifiers/measurement_modifiers.json
+[2019-01-09 07:56:34,428] __init__.py->info():1622 -- MESSAGE -- Loaded 20 modifier descriptions from file data/modifiers/measurement_modifiers_desc.json
+[2019-01-09 07:56:34,470] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 0_modeling_a_measurement
+[2019-01-09 07:56:34,493] __init__.py->info():1622 -- MESSAGE -- Importing plugin 0_modeling_background
+[2019-01-09 07:56:34,495] __init__.py->info():1622 -- MESSAGE -- Imported plugin 0_modeling_background
+[2019-01-09 07:56:34,495] __init__.py->info():1622 -- MESSAGE -- Loading plugin 0_modeling_background
+[2019-01-09 07:56:34,511] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 0_modeling_background
+[2019-01-09 07:56:34,529] __init__.py->info():1622 -- MESSAGE -- Importing plugin 2_foot_posing
+[2019-01-09 07:56:34,530] __init__.py->info():1622 -- MESSAGE -- Imported plugin 2_foot_posing
+[2019-01-09 07:56:34,530] __init__.py->info():1622 -- MESSAGE -- Loading plugin 2_foot_posing
+[2019-01-09 07:56:34,531] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 2_foot_posing
+[2019-01-09 07:56:34,531] __init__.py->info():1622 -- MESSAGE -- Importing plugin 2_posing_expression
+[2019-01-09 07:56:34,532] __init__.py->info():1622 -- MESSAGE -- Imported plugin 2_posing_expression
+[2019-01-09 07:56:34,533] __init__.py->info():1622 -- MESSAGE -- Loading plugin 2_posing_expression
+[2019-01-09 07:56:34,535] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 2_posing_expression
+[2019-01-09 07:56:34,548] __init__.py->info():1622 -- MESSAGE -- Importing plugin 3_libraries_clothes_chooser
+[2019-01-09 07:56:34,549] __init__.py->info():1622 -- MESSAGE -- Imported plugin 3_libraries_clothes_chooser
+[2019-01-09 07:56:34,550] __init__.py->info():1622 -- MESSAGE -- Loading plugin 3_libraries_clothes_chooser
+[2019-01-09 07:56:34,553] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 3_libraries_clothes_chooser
+[2019-01-09 07:56:34,562] __init__.py->info():1622 -- MESSAGE -- Importing plugin 3_libraries_eye_chooser
+[2019-01-09 07:56:34,563] __init__.py->info():1622 -- MESSAGE -- Imported plugin 3_libraries_eye_chooser
+[2019-01-09 07:56:34,563] __init__.py->info():1622 -- MESSAGE -- Loading plugin 3_libraries_eye_chooser
+[2019-01-09 07:56:34,565] __init__.py->info():1622 -- MESSAGE -- Selecting proxy file "data/eyes/high-poly/high-poly.mhclo" from eyes library.
+[2019-01-09 07:56:34,566] __init__.py->debug():1630 -- DEBUG -- Loading binary proxy data/eyes/high-poly/high-poly.mhpxy.
+[2019-01-09 07:56:34,566] __init__.py->debug():1630 -- DEBUG -- Loading proxy file: data/eyes/high-poly/high-poly.mhpxy.
+[2019-01-09 07:56:34,577] __init__.py->debug():1630 -- DEBUG -- Loading material from file /Applications/MakeHuman.app/Contents/Resources/data/eyes/materials/brown.mhmat
+[2019-01-09 07:56:34,581] __init__.py->debug():1630 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2019-01-09 07:56:34,581] __init__.py->debug():1630 -- DEBUG -- Shader: adding built-in uniform gl_NormalMatrix
+[2019-01-09 07:56:34,581] __init__.py->debug():1630 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewProjectionMatrix
+[2019-01-09 07:56:34,582] __init__.py->debug():1630 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2019-01-09 07:56:34,582] __init__.py->debug():1630 -- DEBUG -- Loading binary mesh /Applications/MakeHuman.app/Contents/Resources/data/eyes/high-poly/high-poly.npz.
+[2019-01-09 07:56:34,767] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 3_libraries_eye_chooser
+[2019-01-09 07:56:34,777] __init__.py->info():1622 -- MESSAGE -- Importing plugin 3_libraries_eyebrows
+[2019-01-09 07:56:34,778] __init__.py->info():1622 -- MESSAGE -- Imported plugin 3_libraries_eyebrows
+[2019-01-09 07:56:34,778] __init__.py->info():1622 -- MESSAGE -- Loading plugin 3_libraries_eyebrows
+[2019-01-09 07:56:34,781] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 3_libraries_eyebrows
+[2019-01-09 07:56:34,783] __init__.py->info():1622 -- MESSAGE -- Importing plugin 3_libraries_eyelashes
+[2019-01-09 07:56:34,784] __init__.py->info():1622 -- MESSAGE -- Imported plugin 3_libraries_eyelashes
+[2019-01-09 07:56:34,784] __init__.py->info():1622 -- MESSAGE -- Loading plugin 3_libraries_eyelashes
+[2019-01-09 07:56:34,787] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 3_libraries_eyelashes
+[2019-01-09 07:56:34,796] __init__.py->info():1622 -- MESSAGE -- Importing plugin 3_libraries_material_chooser
+[2019-01-09 07:56:34,797] __init__.py->info():1622 -- MESSAGE -- Imported plugin 3_libraries_material_chooser
+[2019-01-09 07:56:34,797] __init__.py->info():1622 -- MESSAGE -- Loading plugin 3_libraries_material_chooser
+[2019-01-09 07:56:34,801] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 3_libraries_material_chooser
+[2019-01-09 07:56:34,810] __init__.py->info():1622 -- MESSAGE -- Importing plugin 3_libraries_polygon_hair_chooser
+[2019-01-09 07:56:34,811] __init__.py->info():1622 -- MESSAGE -- Imported plugin 3_libraries_polygon_hair_chooser
+[2019-01-09 07:56:34,811] __init__.py->info():1622 -- MESSAGE -- Loading plugin 3_libraries_polygon_hair_chooser
+[2019-01-09 07:56:34,814] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 3_libraries_polygon_hair_chooser
+[2019-01-09 07:56:34,816] __init__.py->info():1622 -- MESSAGE -- Importing plugin 3_libraries_pose
+[2019-01-09 07:56:34,817] __init__.py->info():1622 -- MESSAGE -- Imported plugin 3_libraries_pose
+[2019-01-09 07:56:34,817] __init__.py->info():1622 -- MESSAGE -- Loading plugin 3_libraries_pose
+[2019-01-09 07:56:34,820] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 3_libraries_pose
+[2019-01-09 07:56:34,829] __init__.py->info():1622 -- MESSAGE -- Importing plugin 3_libraries_proxy_chooser
+[2019-01-09 07:56:34,829] __init__.py->info():1622 -- MESSAGE -- Imported plugin 3_libraries_proxy_chooser
+[2019-01-09 07:56:34,830] __init__.py->info():1622 -- MESSAGE -- Loading plugin 3_libraries_proxy_chooser
+[2019-01-09 07:56:34,833] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 3_libraries_proxy_chooser
+[2019-01-09 07:56:34,841] __init__.py->info():1622 -- MESSAGE -- Importing plugin 3_libraries_skeleton
+[2019-01-09 07:56:34,843] __init__.py->info():1622 -- MESSAGE -- Imported plugin 3_libraries_skeleton
+[2019-01-09 07:56:34,843] __init__.py->info():1622 -- MESSAGE -- Loading plugin 3_libraries_skeleton
+[2019-01-09 07:56:34,846] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 3_libraries_skeleton
+[2019-01-09 07:56:34,850] __init__.py->info():1622 -- MESSAGE -- Importing plugin 3_libraries_teeth
+[2019-01-09 07:56:34,850] __init__.py->info():1622 -- MESSAGE -- Imported plugin 3_libraries_teeth
+[2019-01-09 07:56:34,850] __init__.py->info():1622 -- MESSAGE -- Loading plugin 3_libraries_teeth
+[2019-01-09 07:56:34,853] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 3_libraries_teeth
+[2019-01-09 07:56:34,862] __init__.py->info():1622 -- MESSAGE -- Importing plugin 3_libraries_tongue
+[2019-01-09 07:56:34,863] __init__.py->info():1622 -- MESSAGE -- Imported plugin 3_libraries_tongue
+[2019-01-09 07:56:34,863] __init__.py->info():1622 -- MESSAGE -- Loading plugin 3_libraries_tongue
+[2019-01-09 07:56:34,866] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 3_libraries_tongue
+[2019-01-09 07:56:34,868] __init__.py->info():1622 -- MESSAGE -- Importing plugin 4_rendering_9_viewer
+[2019-01-09 07:56:34,869] __init__.py->info():1622 -- MESSAGE -- Imported plugin 4_rendering_9_viewer
+[2019-01-09 07:56:34,869] __init__.py->info():1622 -- MESSAGE -- Loading plugin 4_rendering_9_viewer
+[2019-01-09 07:56:34,872] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 4_rendering_9_viewer
+[2019-01-09 07:56:34,881] __init__.py->info():1622 -- MESSAGE -- Importing plugin 4_rendering_opengl
+[2019-01-09 07:56:34,882] __init__.py->info():1622 -- MESSAGE -- Imported plugin 4_rendering_opengl
+[2019-01-09 07:56:34,883] __init__.py->info():1622 -- MESSAGE -- Loading plugin 4_rendering_opengl
+[2019-01-09 07:56:34,884] __init__.py->debug():1630 -- DEBUG -- Assigning setting rendering_width value 800 that was loaded before the setting was declared.
+[2019-01-09 07:56:34,884] __init__.py->debug():1630 -- DEBUG -- Assigning setting rendering_height value 600 that was loaded before the setting was declared.
+[2019-01-09 07:56:34,884] __init__.py->debug():1630 -- DEBUG -- Assigning setting GL_RENDERER_SSS value False that was loaded before the setting was declared.
+[2019-01-09 07:56:34,884] __init__.py->debug():1630 -- DEBUG -- Assigning setting GL_RENDERER_AA value True that was loaded before the setting was declared.
+[2019-01-09 07:56:34,891] extensions.py->hasGLExtension():148 -- DEBUG -- GL Extension GL_ARB_framebuffer_object available
+[2019-01-09 07:56:34,891] extensions.py->finalise():182 -- DEBUG -- Chose alternate: glGenRenderbuffers from glGenRenderbuffers, glGenRenderbuffersEXT
+[2019-01-09 07:56:34,892] extensions.py->finalise():182 -- DEBUG -- Chose alternate: glBindRenderbuffer from glBindRenderbuffer, glBindRenderbufferEXT
+[2019-01-09 07:56:34,892] extensions.py->finalise():182 -- DEBUG -- Chose alternate: glRenderbufferStorage from glRenderbufferStorage, glRenderbufferStorageEXT
+[2019-01-09 07:56:34,892] extensions.py->finalise():182 -- DEBUG -- Chose alternate: glGenFramebuffers from glGenFramebuffers, glGenFramebuffersEXT
+[2019-01-09 07:56:34,892] extensions.py->finalise():182 -- DEBUG -- Chose alternate: glBindFramebuffer from glBindFramebuffer, glBindFramebufferEXT
+[2019-01-09 07:56:34,893] extensions.py->finalise():182 -- DEBUG -- Chose alternate: glFramebufferRenderbuffer from glFramebufferRenderbuffer, glFramebufferRenderbufferEXT
+[2019-01-09 07:56:34,893] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 4_rendering_opengl
+[2019-01-09 07:56:34,910] __init__.py->info():1622 -- MESSAGE -- Importing plugin 4_rendering_scene
+[2019-01-09 07:56:34,911] __init__.py->info():1622 -- MESSAGE -- Imported plugin 4_rendering_scene
+[2019-01-09 07:56:34,911] __init__.py->info():1622 -- MESSAGE -- Loading plugin 4_rendering_scene
+[2019-01-09 07:56:34,912] __init__.py->log():1638 -- NOTICE -- Setting rendering_width is already declared. Adding it again has no effect.
+[2019-01-09 07:56:34,912] __init__.py->log():1638 -- NOTICE -- Setting rendering_height is already declared. Adding it again has no effect.
+[2019-01-09 07:56:34,914] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 4_rendering_scene
+[2019-01-09 07:56:34,916] __init__.py->info():1622 -- MESSAGE -- Importing plugin 5_settings_0_settings
+[2019-01-09 07:56:34,917] __init__.py->info():1622 -- MESSAGE -- Imported plugin 5_settings_0_settings
+[2019-01-09 07:56:34,917] __init__.py->info():1622 -- MESSAGE -- Loading plugin 5_settings_0_settings
+[2019-01-09 07:56:35,039] __init__.py->debug():1630 -- DEBUG -- Setting language to english
+[2019-01-09 07:56:35,080] __init__.py->info():1622 -- MESSAGE -- Theme makehuman version 1.1.0
+[2019-01-09 07:56:35,083] __init__.py->debug():1630 -- DEBUG -- Loaded theme data/themes/makehuman.mht
+[2019-01-09 07:56:35,829] __init__.py->debug():1630 -- DEBUG -- Loaded Qt style data/themes/makehuman.qss
+[2019-01-09 07:56:35,884] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 5_settings_0_settings
+[2019-01-09 07:56:35,903] __init__.py->debug():1630 -- DEBUG -- Creating new texture for image /Applications/MakeHuman.app/Contents/Resources/data/eyes/materials/brown_eye.png.
+[2019-01-09 07:56:35,983] __init__.py->debug():1630 -- DEBUG -- initTexture: 1024, 1024, False
+[2019-01-09 07:56:35,984] __init__.py->debug():1630 -- DEBUG -- Creating new texture for image /Applications/MakeHuman.app/Contents/Resources/data/litspheres/skinmat_eye.png.
+[2019-01-09 07:56:35,996] __init__.py->debug():1630 -- DEBUG -- initTexture: 256, 256, False
+[2019-01-09 07:56:36,149] __init__.py->info():1622 -- MESSAGE -- Importing plugin 5_settings_mouse
+[2019-01-09 07:56:36,167] __init__.py->info():1622 -- MESSAGE -- Imported plugin 5_settings_mouse
+[2019-01-09 07:56:36,167] __init__.py->info():1622 -- MESSAGE -- Loading plugin 5_settings_mouse
+[2019-01-09 07:56:36,173] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 5_settings_mouse
+[2019-01-09 07:56:36,184] __init__.py->info():1622 -- MESSAGE -- Importing plugin 5_settings_shortcuts
+[2019-01-09 07:56:36,185] __init__.py->info():1622 -- MESSAGE -- Imported plugin 5_settings_shortcuts
+[2019-01-09 07:56:36,186] __init__.py->info():1622 -- MESSAGE -- Loading plugin 5_settings_shortcuts
+[2019-01-09 07:56:36,204] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 5_settings_shortcuts
+[2019-01-09 07:56:36,295] __init__.py->info():1622 -- MESSAGE -- Importing plugin 6_help
+[2019-01-09 07:56:36,315] __init__.py->info():1622 -- MESSAGE -- Imported plugin 6_help
+[2019-01-09 07:56:36,315] __init__.py->info():1622 -- MESSAGE -- Loading plugin 6_help
+[2019-01-09 07:56:36,322] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 6_help
+[2019-01-09 07:56:36,343] __init__.py->info():1622 -- MESSAGE -- Importing plugin 7_expression_mixer
+[2019-01-09 07:56:36,351] __init__.py->info():1622 -- MESSAGE -- Imported plugin 7_expression_mixer
+[2019-01-09 07:56:36,351] __init__.py->info():1622 -- MESSAGE -- Loading plugin 7_expression_mixer
+[2019-01-09 07:56:36,370] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 7_expression_mixer
+[2019-01-09 07:56:36,385] __init__.py->info():1622 -- MESSAGE -- Importing plugin 7_logging
+[2019-01-09 07:56:36,386] __init__.py->info():1622 -- MESSAGE -- Imported plugin 7_logging
+[2019-01-09 07:56:36,386] __init__.py->info():1622 -- MESSAGE -- Loading plugin 7_logging
+[2019-01-09 07:56:36,396] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 7_logging
+[2019-01-09 07:56:36,412] __init__.py->info():1622 -- MESSAGE -- Importing plugin 9_export_bvh
+[2019-01-09 07:56:36,414] __init__.py->info():1622 -- MESSAGE -- Imported plugin 9_export_bvh
+[2019-01-09 07:56:36,415] __init__.py->info():1622 -- MESSAGE -- Loading plugin 9_export_bvh
+[2019-01-09 07:56:36,416] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 9_export_bvh
+[2019-01-09 07:56:36,417] __init__.py->info():1622 -- MESSAGE -- Importing plugin 9_export_collada
+[2019-01-09 07:56:36,418] __init__.py->info():1622 -- MESSAGE -- Imported plugin 9_export_collada
+[2019-01-09 07:56:36,418] __init__.py->info():1622 -- MESSAGE -- Loading plugin 9_export_collada
+[2019-01-09 07:56:36,423] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 9_export_collada
+[2019-01-09 07:56:36,430] __init__.py->info():1622 -- MESSAGE -- Importing plugin 9_export_fbx
+[2019-01-09 07:56:36,431] __init__.py->info():1622 -- MESSAGE -- Imported plugin 9_export_fbx
+[2019-01-09 07:56:36,431] __init__.py->info():1622 -- MESSAGE -- Loading plugin 9_export_fbx
+[2019-01-09 07:56:36,433] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 9_export_fbx
+[2019-01-09 07:56:36,434] __init__.py->info():1622 -- MESSAGE -- Importing plugin 9_export_light
+[2019-01-09 07:56:36,435] __init__.py->info():1622 -- MESSAGE -- Imported plugin 9_export_light
+[2019-01-09 07:56:36,435] __init__.py->info():1622 -- MESSAGE -- Loading plugin 9_export_light
+[2019-01-09 07:56:36,436] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 9_export_light
+[2019-01-09 07:56:36,446] __init__.py->info():1622 -- MESSAGE -- Importing plugin 9_export_obj
+[2019-01-09 07:56:36,447] __init__.py->info():1622 -- MESSAGE -- Imported plugin 9_export_obj
+[2019-01-09 07:56:36,447] __init__.py->info():1622 -- MESSAGE -- Loading plugin 9_export_obj
+[2019-01-09 07:56:36,449] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 9_export_obj
+[2019-01-09 07:56:36,450] __init__.py->info():1622 -- MESSAGE -- Importing plugin 9_export_ogre
+[2019-01-09 07:56:36,452] __init__.py->info():1622 -- MESSAGE -- Imported plugin 9_export_ogre
+[2019-01-09 07:56:36,452] __init__.py->info():1622 -- MESSAGE -- Loading plugin 9_export_ogre
+[2019-01-09 07:56:36,453] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 9_export_ogre
+[2019-01-09 07:56:36,472] __init__.py->info():1622 -- MESSAGE -- Importing plugin 9_export_stl
+[2019-01-09 07:56:36,473] __init__.py->info():1622 -- MESSAGE -- Imported plugin 9_export_stl
+[2019-01-09 07:56:36,473] __init__.py->info():1622 -- MESSAGE -- Loading plugin 9_export_stl
+[2019-01-09 07:56:36,475] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 9_export_stl
+[2019-01-09 07:56:36,480] __init__.py->info():1622 -- MESSAGE -- Importing plugin 9_export_uvmap
+[2019-01-09 07:56:36,480] __init__.py->info():1622 -- MESSAGE -- Imported plugin 9_export_uvmap
+[2019-01-09 07:56:36,481] __init__.py->info():1622 -- MESSAGE -- Loading plugin 9_export_uvmap
+[2019-01-09 07:56:36,482] __init__.py->info():1622 -- MESSAGE -- Loaded plugin 9_export_uvmap
+[2019-01-09 07:56:36,483] __init__.py->info():1622 -- MESSAGE -- Loading GUI
+[2019-01-09 07:56:36,581] __init__.py->debug():1630 -- DEBUG -- showing category Modelling
+[2019-01-09 07:56:36,582] __init__.py->debug():1630 -- DEBUG -- showing task Macro modelling
+[2019-01-09 07:56:36,727] __init__.py->info():1622 -- MESSAGE -- Loading theme
+[2019-01-09 07:56:36,727] __init__.py->info():1622 -- MESSAGE -- Theme makehuman version 1.1.0
+[2019-01-09 07:56:36,731] __init__.py->debug():1630 -- DEBUG -- Loaded theme data/themes/makehuman.mht
+[2019-01-09 07:56:37,462] __init__.py->debug():1630 -- DEBUG -- Loaded Qt style data/themes/makehuman.qss
+[2019-01-09 07:56:37,488] __init__.py->info():1622 -- MESSAGE -- Applying targets
+[2019-01-09 07:56:37,946] __init__.py->debug():1630 -- DEBUG -- Updating skeleton joint positions
+[2019-01-09 07:56:37,998] __init__.py->debug():1630 -- DEBUG -- Done baking animations
+[2019-01-09 07:56:38,135] __init__.py->info():1622 -- MESSAGE -- Loading macro targets
+[2019-01-09 07:56:41,586] __init__.py->info():1622 -- MESSAGE -- Loading done
+[2019-01-09 07:56:41,597] __init__.py->info():1622 -- MESSAGE -- 
+[2019-01-09 07:56:49,985] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 9_export_obj
+[2019-01-09 07:56:49,985] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 9_export_obj
+[2019-01-09 07:56:49,985] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 5_settings_shortcuts
+[2019-01-09 07:56:49,986] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 5_settings_shortcuts
+[2019-01-09 07:56:49,986] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 4_rendering_scene
+[2019-01-09 07:56:49,986] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 4_rendering_scene
+[2019-01-09 07:56:49,986] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 9_export_collada
+[2019-01-09 07:56:49,986] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 9_export_collada
+[2019-01-09 07:56:49,986] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 5_settings_0_settings
+[2019-01-09 07:56:49,987] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 5_settings_0_settings
+[2019-01-09 07:56:49,987] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 3_libraries_clothes_chooser
+[2019-01-09 07:56:49,987] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 3_libraries_clothes_chooser
+[2019-01-09 07:56:49,987] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 5_settings_mouse
+[2019-01-09 07:56:49,987] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 5_settings_mouse
+[2019-01-09 07:56:49,987] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 3_libraries_proxy_chooser
+[2019-01-09 07:56:49,987] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 3_libraries_proxy_chooser
+[2019-01-09 07:56:49,988] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 2_posing_expression
+[2019-01-09 07:56:49,988] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 2_posing_expression
+[2019-01-09 07:56:49,988] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 0_modeling_8_random
+[2019-01-09 07:56:49,988] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 0_modeling_8_random
+[2019-01-09 07:56:49,988] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 3_libraries_material_chooser
+[2019-01-09 07:56:49,988] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 3_libraries_material_chooser
+[2019-01-09 07:56:49,989] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 0_modeling_0_modifiers
+[2019-01-09 07:56:49,989] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 0_modeling_0_modifiers
+[2019-01-09 07:56:49,989] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 9_export_fbx
+[2019-01-09 07:56:49,989] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 9_export_fbx
+[2019-01-09 07:56:49,989] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 9_export_stl
+[2019-01-09 07:56:49,989] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 9_export_stl
+[2019-01-09 07:56:49,989] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 4_rendering_opengl
+[2019-01-09 07:56:49,990] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 4_rendering_opengl
+[2019-01-09 07:56:49,990] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 3_libraries_polygon_hair_chooser
+[2019-01-09 07:56:49,990] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 3_libraries_polygon_hair_chooser
+[2019-01-09 07:56:49,990] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 0_modeling_9_custom_targets
+[2019-01-09 07:56:49,990] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 0_modeling_9_custom_targets
+[2019-01-09 07:56:49,990] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 9_export_light
+[2019-01-09 07:56:49,990] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 9_export_light
+[2019-01-09 07:56:49,991] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 3_libraries_eyelashes
+[2019-01-09 07:56:49,991] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 3_libraries_eyelashes
+[2019-01-09 07:56:49,991] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 7_logging
+[2019-01-09 07:56:49,991] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 7_logging
+[2019-01-09 07:56:49,991] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 4_rendering_9_viewer
+[2019-01-09 07:56:49,991] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 4_rendering_9_viewer
+[2019-01-09 07:56:49,992] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 9_export_bvh
+[2019-01-09 07:56:49,992] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 9_export_bvh
+[2019-01-09 07:56:49,992] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 2_foot_posing
+[2019-01-09 07:56:49,992] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 2_foot_posing
+[2019-01-09 07:56:49,992] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 6_help
+[2019-01-09 07:56:49,992] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 6_help
+[2019-01-09 07:56:49,992] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 3_libraries_skeleton
+[2019-01-09 07:56:49,992] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 3_libraries_skeleton
+[2019-01-09 07:56:49,993] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 3_libraries_eye_chooser
+[2019-01-09 07:56:49,993] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 3_libraries_eye_chooser
+[2019-01-09 07:56:49,993] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 7_expression_mixer
+[2019-01-09 07:56:49,993] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 7_expression_mixer
+[2019-01-09 07:56:49,993] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 3_libraries_tongue
+[2019-01-09 07:56:49,993] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 3_libraries_tongue
+[2019-01-09 07:56:49,993] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 3_libraries_teeth
+[2019-01-09 07:56:49,994] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 3_libraries_teeth
+[2019-01-09 07:56:49,994] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 3_libraries_pose
+[2019-01-09 07:56:49,994] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 3_libraries_pose
+[2019-01-09 07:56:49,994] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 0_modeling_background
+[2019-01-09 07:56:49,994] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 0_modeling_background
+[2019-01-09 07:56:49,995] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 9_export_uvmap
+[2019-01-09 07:56:49,995] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 9_export_uvmap
+[2019-01-09 07:56:49,995] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 0_modeling_a_measurement
+[2019-01-09 07:56:49,995] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 0_modeling_a_measurement
+[2019-01-09 07:56:49,995] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 9_export_ogre
+[2019-01-09 07:56:49,995] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 9_export_ogre
+[2019-01-09 07:56:49,995] __init__.py->info():1622 -- MESSAGE -- Unloading plugin 3_libraries_eyebrows
+[2019-01-09 07:56:49,995] __init__.py->info():1622 -- MESSAGE -- Unloaded plugin 3_libraries_eyebrows
